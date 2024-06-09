@@ -11,17 +11,22 @@
 masterez_
 
 # Lenguajes
-![HTML](https://img.shields.io/badge/HTML-black?logo=html5)<br>
-![CSS](https://img.shields.io/badge/CSS-black?logo=css3&logoColor=%231572B6)<br>
-![JS](https://img.shields.io/badge/JS-black?logo=javascript)<br>
-![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=%231572B6)<br>
+![HTML](https://img.shields.io/badge/HTML-black?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-black?logo=css3&logoColor=%231572B6)
+![JS](https://img.shields.io/badge/JS-black?logo=javascript)
+![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=%231572B6)
 
 # Frameworks
-![Boostrap](https://img.shields.io/badge/Boostrap-black?logo=bootstrap&logoColor=%237952B3)<br>
-![Flask](https://img.shields.io/badge/Flask-black?logo=Flask)<br>
+![Boostrap](https://img.shields.io/badge/Boostrap-black?logo=bootstrap&logoColor=%237952B3)
+![Flask](https://img.shields.io/badge/Flask-black?logo=Flask)
 
 # Herramientas
-![Trello](https://img.shields.io/badge/Trello-black?logo=trello&logoColor=%230052CC) <br>
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)<br>
+![Trello](https://img.shields.io/badge/Trello-black?logo=trello&logoColor=%230052CC) 
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+
+# Editores de codigo
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-black?logo=visualstudiocode&logoColor=%23007ACC)
+![Sublime Text](https://img.shields.io/badge/Sublime%20Text-black?logo=sublimetext&logoColor=%23FF9800)
+![Notepad++](https://img.shields.io/badge/Notepad%2B%2B-black?logo=notepadplusplus&logoColor=%2390E59A)
 
 
