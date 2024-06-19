@@ -14,10 +14,9 @@
 ![HTML](https://img.shields.io/badge/HTML-black?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-black?logo=css3&logoColor=%231572B6)
 ![JS](https://img.shields.io/badge/JS-black?logo=javascript)
-![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=%231572B6)
-# Aprendiendo
 ![PHP](https://img.shields.io/badge/PHP-black?logo=php&logoColor=%23777BB4)
 ![MySQLli](https://img.shields.io/badge/MySQLi-black?logo=sqlite&logoColor=%23003B57)
+![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=%231572B6)
 
 
 # Frameworks
