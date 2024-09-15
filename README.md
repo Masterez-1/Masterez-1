@@ -17,6 +17,7 @@
 ![PHP](https://img.shields.io/badge/PHP-black?logo=php&logoColor=%23777BB4)
 ![MySQLli](https://img.shields.io/badge/MySQLi-black?logo=sqlite&logoColor=%23003B57)
 ![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=%231572B6)
+![Lua](https://img.shields.io/badge/Lua-black?logo=lua&logoColor=%231572B6)
 
 
 # Frameworks
