@@ -8,7 +8,7 @@
 🚀 Tratando de innovar<br>
 
 ![Discord](https://img.shields.io/badge/Discord-black?logo=discord&logoColor=%235865F2)<br>
-[Masterez_](https://discord.gg/VwF2g2tC8R)
+[Masterez_](https://discord.gg/VwF2g2tC8R)<br>
 [Portafolio](http://masterez.sytes.net/)
 # Lenguajes
 ![HTML](https://img.shields.io/badge/HTML-black?logo=html5)
