@@ -2,14 +2,13 @@
 <h3 align="center">Intento de programador</h3>
 
 # 💫 Sobre mi:
-🔭 Owner de [TukiCraft](https://discord.gg/cXX2tkEcct)<br>
 🌱 Aprendiendo un poco de todo<br>
 🟣 Creatividad<br>
 🚀 Tratando de innovar<br>
 
 ![Discord](https://img.shields.io/badge/Discord-black?logo=discord&logoColor=%235865F2)<br>
-[Masterez_](https://discord.gg/VwF2g2tC8R)<br>
-[Portafolio](https://antezana.vercel.app/)
+[Masterez_]()<br>
+[Portafolio]()
 # Lenguajes
 ![HTML](https://img.shields.io/badge/HTML-black?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-black?logo=css3&logoColor=%231572B6)
