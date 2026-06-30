@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hola, soy Masterez</h1>
 
 <p align="center">
-  Aprendiendo un poco de todo, desarrollando proyectos y mejorando cada día. 🚀
+  Aprendiendo un poco de todo
 </p>
 
 ---
 
 # 💫 Sobre mí
-Aprendiendo de a poco 
+Estudiante y 
 
 ---
 
