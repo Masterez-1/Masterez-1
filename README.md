@@ -1,35 +1,54 @@
-<h1 align="center">Masterez</h1>
-<h3 align="center">Intento de programador</h3>
+<h1 align="center">👋 Hola, soy Masterez</h1>
 
-# 💫 Sobre mi:
-🌱 Aprendiendo un poco de todo<br>
-🟣 Creatividad<br>
-🚀 Tratando de innovar<br>
+<p align="center">
+  Aprendiendo un poco de todo, desarrollando proyectos y mejorando cada día. 🚀
+</p>
 
-![Discord](https://img.shields.io/badge/Discord-black?logo=discord&logoColor=%235865F2)<br>
-[Masterez_]()<br>
-[Portafolio]()
-# Lenguajes
-![HTML](https://img.shields.io/badge/HTML-black?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-black?logo=css3&logoColor=%231572B6)
-![JS](https://img.shields.io/badge/JS-black?logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-black?logo=php&logoColor=%23777BB4)
-![MySQLli](https://img.shields.io/badge/MySQLi-black?logo=sqlite&logoColor=%23003B57)
-![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=%231572B6)
-![Lua](https://img.shields.io/badge/Lua-black?logo=lua&logoColor=%231572B6)
+---
 
+# 💫 Sobre mí
+Aprendiendo de a poco 
 
-# Frameworks
-![Boostrap](https://img.shields.io/badge/Boostrap-black?logo=bootstrap&logoColor=%237952B3)
-![Flask](https://img.shields.io/badge/Flask-black?logo=Flask)
+---
 
-# Herramientas
-![Trello](https://img.shields.io/badge/Trello-black?logo=trello&logoColor=%230052CC) 
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+# 🌐 Contacto
 
-# Editores de codigo
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-black?logo=visualstudiocode&logoColor=%23007ACC)
-![Sublime Text](https://img.shields.io/badge/Sublime%20Text-black?logo=sublimetext&logoColor=%23FF9800)
-![Notepad++](https://img.shields.io/badge/Notepad%2B%2B-black?logo=notepadplusplus&logoColor=%2390E59A)
+![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=5865F2)
 
+**Usuario:** `Masterez_`
+---
+# 💻 Lenguajes
 
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=777BB4)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB)
+![Lua](https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua&logoColor=2C2D72)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![C%23](https://img.shields.io/badge/C%23-Básico-black?style=for-the-badge&logo=csharp&logoColor=512BD4)
+
+---
+
+# ⚡ Frameworks & Librerías
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![Vue.js](https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+# 🛠 Herramientas
+
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Trello](https://img.shields.io/badge/Trello-black?style=for-the-badge&logo=trello&logoColor=0052CC)
+
+---
+
+# 📝 Editores de Código
+
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-black?style=for-the-badge&logo=sublimetext&logoColor=FF9800)
+![Notepad++](https://img.shields.io/badge/Notepad++-black?style=for-the-badge&logo=notepadplusplus&logoColor=90E59A)
