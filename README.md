@@ -7,7 +7,7 @@
 ---
 
 # 💫 Sobre mí
-Estudiante y 
+Estudiante y haciendo cosas :p.
 
 ---
 
